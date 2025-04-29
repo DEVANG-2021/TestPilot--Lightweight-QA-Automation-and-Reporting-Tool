@@ -1,0 +1,10 @@
+Flask
+selenium
+matplotlib
+pandas
+plotly
+openpyxl
+schedule
+beautifulsoup4
+requests
+fpdf
