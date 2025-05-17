@@ -20,17 +20,16 @@
 
 ```bash
 TestPilot/
-├── dashboard_app.py         # Flask dashboard web app
-├── run_tests.py             # Main test runner script
-├── sample_test_script.py    # Sample test case script
-├── utils/
-│   └── logger.py            # Logging utility
+TestPilot/
+├── test_runner.py
+├── dashboard_app.py
+├── auto_scheduler.py
+├── testgen_ai.py
+├── requirements.txt
 ├── db/
-│   └── test_results.db      # SQLite database storing results
-├── templates/               # HTML templates for rendering
-├── static/                  # Bootstrap/JS/CSS files
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+│   └── test_results.db (auto created after running test_runner.py)
+└── README.md
+
 ```
 
 
