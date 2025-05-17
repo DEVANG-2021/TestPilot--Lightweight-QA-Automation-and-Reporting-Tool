@@ -20,7 +20,6 @@
 
 ```bash
 TestPilot/
-TestPilot/
 ├── test_runner.py
 ├── dashboard_app.py
 ├── auto_scheduler.py
